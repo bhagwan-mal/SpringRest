@@ -21,7 +21,4 @@ public class Student {
 	private String stdCourse;
 	private String stdAddrs;
 
-	private String stdGender;
-	private String stdCountry;
-
 }
